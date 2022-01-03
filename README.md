@@ -1,6 +1,6 @@
 # sui-saver
 
-##How to Run:
+## How to Run:
 
 1. first make make a virtual environment, you can do it by running "virtualenv env" this command
 2. Then go inside of the virtual environment, you can do it by running ".\env\Scripts\activate.ps1"
